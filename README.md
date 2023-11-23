@@ -6,3 +6,6 @@ Welcome to the repository for the Machine Learning project focused on building a
 
 The main goal of this project is to develop a predictive model using the K-means algorithm. The model aims to categorize students into different groups based on their behavior and performance in online education environments. These categories can be used to identify patterns and provide insights into improving the learning experience for different student profiles.
 
+## Link to Publication
+
+https://medium.com/@natalia.simoes.dev/machine-learning-e706dab88f0a
